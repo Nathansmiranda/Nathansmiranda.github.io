@@ -62069,7 +62069,7 @@ s=A.a([new A.cH(0,B.a5,B.M,B.h,20)],l)
 s=A.qF(q,A.hj(A.eS(15),A.ht("images/chess.png",200)),B.r,q,q,new A.cw(q,q,q,q,s,q,B.X),q,q,q,q,q,q,q)
 l=A.a([new A.cH(0,B.a5,B.M,B.h,20)],l)
 r=t.E
-return A.on(new A.fD(B.eZ,A.l4(A.a([p,o,n,m,A.ol(A.a([k,s,A.qF(q,A.hj(A.eS(15),A.ht("images/bulb.png",200)),B.r,q,q,new A.cw(q,q,q,q,l,q,B.X),q,q,q,q,q,q,q)],r),B.av,B.BZ,B.b2),A.bm(q,20,q),A.ol(A.a([A.bm(A.CM(!0,!0,B.k,!0,"relpha_neon.glb"),200,200),A.bm(A.CM(!0,!0,B.k,!0,"assets/heart.glb"),200,200),A.bm(A.CM(!0,!0,B.k,!0,"assets/assets/chess.glb"),200,200),A.bm(A.CM(!0,!0,B.k,!0,"./train.glb"),200,200),A.bm(A.CM(!0,!0,B.k,!0,"/donut.glb"),200,200)],r),B.b7,B.C_,B.b2)],r),B.av),q))}}
+return A.on(new A.fD(B.eZ,A.l4(A.a([p,o,n,m,A.ol(A.a([k,s,A.qF(q,A.hj(A.eS(15),A.ht("images/bulb.png",200)),B.r,q,q,new A.cw(q,q,q,q,l,q,B.X),q,q,q,q,q,q,q)],r),B.av,B.BZ,B.b2),A.bm(q,20,q),A.ol(A.a([A.bm(A.CM(!0,!0,B.k,!0,"assets/assets/relpha_neon.glb"),200,200),A.bm(A.CM(!0,!0,B.k,!0,"assets/assets/heart.glb"),200,200),A.bm(A.CM(!0,!0,B.k,!0,"assets/assets/chess.glb"),200,200),A.bm(A.CM(!0,!0,B.k,!0,"assets/assets/train.glb"),200,200),A.bm(A.CM(!0,!0,B.k,!0,"assets/assets/donut.glb"),200,200)],r),B.b7,B.C_,B.b2)],r),B.av),q))}}
 A.rA.prototype={
 ak(){return new A.IE(B.j)}}
 A.IE.prototype={
